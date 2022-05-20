@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome 🇪🇺</h1>
+    @User.Identity.Name
+    <div>
+        <a asp-action="Logout" asp-controller="Account">Log out</a>
+    </div>
+</div>

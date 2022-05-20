@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{59260DE2-5CDC-4AC2-ACE6-1FA3DCE4D6F0}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lab3last/Controllers/AccountController.cs">
+    <Files>
+      <File FileName="lab3last/Models/UsersContext.cs" Line="17" Column="6" />
+      <File FileName="lab3last/Views/Home/Login.cshtml" Line="4" Column="1" />
+      <File FileName="lab3last/Controllers/AccountController.cs" Line="76" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="lab3last" expanded="True">
+            <Node name="lab3last" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Account" expanded="True" />
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.lab3last PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
